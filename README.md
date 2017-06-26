@@ -8,3 +8,4 @@ Get the `garfield.ps1` and any one of the \*.bat files as per the explanation be
 2. You can use 'garfield-int.bat', which has the `Start Date` and `End Date` defined within the file. Open the file in your favorite text editor and change the dates as you want before you run.
 
 ***The oldest Garfield strip is on 19th June, 1978. Any dates before that wont work.***
+*You may notice missing dates sometimes. This is not a bug. Most probably the strip was not published on that day.*
