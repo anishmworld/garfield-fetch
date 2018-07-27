@@ -1,6 +1,6 @@
 # garfield-fetch
 ## This thingummy has two parts:
-1. Powershell script to fetch garfield strips between dates and stores them in the folder it is launched in; And
+1. Powershell script to fetch garfield strips between dates and store them in the folder it is launched in; And
 2. A batch file launcher which hides the entrails and allows to set dates
 ## There are two main ways to use this:
 Get the `garfield.ps1` and any one of the \*.bat files as per the explanation below. Put the files in the folder you want the strips to be downloaded in.
